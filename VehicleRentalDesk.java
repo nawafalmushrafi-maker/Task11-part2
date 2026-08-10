@@ -26,6 +26,10 @@ public class VehicleRentalDesk {
             IO.println("5. Exit");
             IO.println("Choose:");
             int choice = scanner.nextInt();
+
+
+
+            // is 
             scanner.nextLine();
 
             switch (choice) {
