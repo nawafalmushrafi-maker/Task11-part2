@@ -29,7 +29,7 @@ public class VehicleRentalDesk {
 
 
 
-            // is 
+            // is
             scanner.nextLine();
 
             switch (choice) {
